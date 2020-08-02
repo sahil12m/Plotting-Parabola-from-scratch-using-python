@@ -1,0 +1,1 @@
+# Plotting-Parabola-from-scratch-using-python
